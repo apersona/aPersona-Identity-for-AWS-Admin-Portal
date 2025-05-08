@@ -1,5 +1,5 @@
 # Installing the aPersona Identity Admin Management Portal
-Details coming soon...5/1/25
+Details coming soon...
 
 https://www.apersona.com
 
