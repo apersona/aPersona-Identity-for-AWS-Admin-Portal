@@ -1,4 +1,0 @@
-{
-    "app": "node cdk/bin/sso-cup.js"
-}
-
